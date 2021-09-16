@@ -1,0 +1,6 @@
+Find total count for each 3-character group (e.g. AAA 36502, AAC 27525, ...)
+
+#Algorithm
+1. Divide all characters into 3-character group
+2. Find count of all 3-character group
+3. Display the 3-character group and count

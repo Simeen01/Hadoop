@@ -1,0 +1,19 @@
+Problem: 
+Q1. college.csv contains file of students in the format registration number, name, some count, department.
+
+ 
+
+Digits 5 and 6 indicate year of enrollment.
+e.g. 412412104076
+Here, 12 is the year of enrollment.
+
+ 
+
+Find out number of students enrolled in each year.
+
+D:\code\hadoop\pythonStudentCount>type college.csv | python Map.py | python Reduce.py
+12      102246
+13      8
+14      16
+
+Q2. Count no. of visits to an IP address.

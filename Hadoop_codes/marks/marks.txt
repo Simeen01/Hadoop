@@ -1,0 +1,12 @@
+Ram Nayar,Physics,71
+Sarita Joshi,Physics,80
+Deepak Oberoi,Physics,67
+P Seshan,Physics,78
+Stanley MacEwan,Physics,59
+Deepika Banerjee,Physics,39
+Ram Nayar,Chemistry,38
+Sarita Joshi,Chemistry,45
+Deepak Oberoi,Chemistry,65
+P Seshan,Chemistry,91
+Stanley MacEwan,Chemistry,45
+Deepika Banerjee,Chemistry,38

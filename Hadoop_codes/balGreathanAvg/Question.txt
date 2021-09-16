@@ -1,0 +1,13 @@
+Display a list of jobs and balances, where balance is higher than the average for blue-collar jobs. Fields in the input file are age, job, marital status, education, default, balance, housing loan, personal loan.
+
+#Algorithm
+1. Find average of blue-collar jobs
+   1.1 Create a dictionary for blue collar jobs
+   1.2 Find all blue-collar jobs
+   1.2 Put all balance of blue-collar job into blue collar dictionary
+   1.2 Calculate the avg
+
+2. Create a dictionary for storing all jobs and balance
+ 
+3. If balance > avg of blue collar jobs
+   3.1. Display jobs and balance
